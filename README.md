@@ -1,2 +1,2 @@
 # lewis15
-### *Josh Marcus O. Dacer
+### Josh Marcus O. Dacer
