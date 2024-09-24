@@ -2,6 +2,6 @@
 ### *Josh* Marcus O. Dacer
 > Pacol Naga City
 ---
--First item
--Second item
--third Item
+- First item
+- Second item
+- third Item
